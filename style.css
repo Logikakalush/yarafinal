@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#D1A5BB,white, white);
+}
+
+header{
+    background-image: url(https://flowers.ua/images/Flowers/articles/104-img-6.jpg) ;
+    height: 200px;
+    }
+    
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+h5{
+   font-size: 30px; 
+}
+.sales{
+    background-color: rgb(227, 216, 216);
+    padding: 10px;
+}
+h6{
+    background-color: rgb(227, 216, 216);
+    font-size: 19px;
+    padding: 10px;
+}
+main a{
+    text-decoration: none;
+    font-size:30px ;
+    color: black;
+    margin: 7px;
+    background-color:rgb(227, 216, 216); 
+    padding: 10px;
+}
+.f{
+    display: flex;
+}
+article{
+    display: flex;
+   margin: 10px;
+}
+.town{
+    margin: 30px;
+}
+a:hover{
+   background-color: bisque;
+    transition: 2s;
+}
+h2{
+    border-bottom: 3px solid black;
+}
+article div:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
+.sales p{
+    background-color: #D1A5BB;
+    padding: 10px;
+}
+footer img{
+    margin: 10px;
+    border-radius: 25px;
+}
+
+footer{
+    background-color: #787777;
+    color: #D1A5BB;
+    padding: 10px;
+}
